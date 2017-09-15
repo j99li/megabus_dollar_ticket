@@ -1,7 +1,7 @@
 #!/usr/bin/env python2.7
 # -*- coding: utf-8 -*-
 import datetime
-import scrapy
+#import scrapy
 import urllib
 import json
 import sys
